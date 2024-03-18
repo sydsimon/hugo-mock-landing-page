@@ -16,3 +16,4 @@
 13. As a concert-goer, I want to see live updates and posts from a campus concert, so that I feel involved even if I arrive late.
 14. As an event planner, I want to view engagement analytics, so that I can measure the success of my events.
 15. As a user, I want to control who can see my event activity and profile, so that I maintain privacy over my campus life.
+16. As a club organizer, I want to see which times and locations are most popular for events, so that I can ensure good attendance
